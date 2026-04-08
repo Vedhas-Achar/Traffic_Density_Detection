@@ -1,0 +1,29 @@
+{
+  "image": "Test\\free-video-854671.jpg",
+  "model": "yolov8n.pt",
+  "confidence_threshold": 0.25,
+  "vehicle_count_in_roi": 9,
+  "classes_counted": [
+    "car",
+    "bus",
+    "truck"
+  ],
+  "roi": [
+    [
+      32,
+      96
+    ],
+    [
+      57,
+      1042
+    ],
+    [
+      1851,
+      1042
+    ],
+    [
+      1756,
+      165
+    ]
+  ]
+}
