@@ -1,0 +1,27 @@
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Model weights (large binaries)
+*.pt
+
+# Generated outputs
+*_Output.mp4
+output.mp4
+out.jpg
+out1.jpg
+out.json
+Videoout.json
+
+# Local media/test assets
+Test/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
